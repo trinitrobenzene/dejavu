@@ -1,9 +1,9 @@
 {
     "database": {
-        "host": "127.0.0.1",
-        "user": "root",
-        "password": "rootpass",
-        "database": "dejavu"
+        "host": "ep-winter-bar-43454327.ap-southeast-1.aws.neon.tech",
+        "user": "trinitrobenzene",
+        "password": "tjA3wl5VaYgD",
+        "database": "neondb"
     },
-    "database_type": "mysql"
+    "database_type": "postgres"
 }
